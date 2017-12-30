@@ -1,0 +1,60 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/calebsylvest/Sites/learn/timetracker/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/calebsylvest/Sites/learn/timetracker/app/models/account.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        11,
+        null,
+        null
+      ],
+      "/Users/calebsylvest/Sites/learn/timetracker/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/calebsylvest/Sites/learn/timetracker/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/calebsylvest/Sites/learn/timetracker/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/calebsylvest/Sites/learn/timetracker/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/calebsylvest/Sites/learn/timetracker/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/calebsylvest/Sites/learn/timetracker/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1514607441
+  }
+}

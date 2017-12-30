@@ -13,15 +13,18 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 
 group :development, :test do
-  # gem 'byebug', platform: :mri
+  gem 'byebug'
+  gem "pry-rails"
+  gem "annotate"
+  gem 'factory_bot_rails'
+  gem 'shoulda-matchers', '~> 3.1', '>= 3.1.2'
+  gem "simplecov", "~> 0.11", require: false
+  gem 'rspec-rails'
   gem 'guard'
   gem 'guard-livereload'
   gem 'guard-rspec'
-  gem 'rspec-rails'
   gem 'capybara'
-  gem 'factory_girl_rails'
   gem 'database_cleaner'
-  gem 'shoulda-matchers', '~> 3.1', '>= 3.1.2'
 end
 
 group :development do
