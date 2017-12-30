@@ -1,24 +1,15 @@
-# README
+# TimeTracker Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://www.youtube.com/watch?v=dKe2sP-NAxQ&list=PLY_TsbWXHC0IaIWdnQwkLRdg9pXsyY_pW
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [x] 1. Intro & Setup
+- [ ] 2. zzz
+- [ ] 3. zzz
+- [ ] 4. zzz
+- [ ] 5. zzz
+- [ ] 6. zzz
+- [ ] 7. zzz
+- [ ] 8. zzz
+- [ ] 9. zzz
+- [ ] 10. zzz
+- [ ] 11. zzz
