@@ -11,6 +11,7 @@ gem 'puma', '~> 3.0'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 group :development, :test do
   gem 'byebug'
@@ -32,4 +33,6 @@ group :development do
   # gem 'listen', '~> 3.0.5'
   # gem 'spring'
   # gem 'spring-watcher-listen', '~> 2.0.0'
+  gem 'sextant', '~> 0.2.4' # check rake routes in browser at localhost:3000/rails/routes
+  gem 'letter_opener', '~> 1.4', '>= 1.4.1'
 end

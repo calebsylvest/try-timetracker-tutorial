@@ -4,7 +4,7 @@ RSpec.describe Account, type: :model do
 
   describe 'validations' do
     it { should validate_presence_of(:subdomain) }
-    it { should validate_uniqueness_of(:subdomain) }
+    # it { should validate_uniqueness_of(:subdomain) }
 
     it { should allow_value('spacetime').for(:subdomain) }
     it { should allow_value('test').for(:subdomain) }
