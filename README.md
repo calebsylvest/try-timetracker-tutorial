@@ -19,11 +19,12 @@ https://www.youtube.com/watch?v=dKe2sP-NAxQ&list=PLY_TsbWXHC0IaIWdnQwkLRdg9pXsyY
   - Add Devise & generate User model
   - Add User fields to Account creation form
   - Debug Account creation spec with Pry
-- [ ] 6. User Sign In
+- [x] 6. User Sign In
   - Specs
   - Devise
   - Styling
-- [ ] 7. zzz
+- [ ] 7. Implementing Subdomains
+  -
 - [ ] 8. zzz
 - [ ] 9. zzz
 - [ ] 10. zzz
