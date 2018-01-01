@@ -14,12 +14,15 @@ https://www.youtube.com/watch?v=dKe2sP-NAxQ&list=PLY_TsbWXHC0IaIWdnQwkLRdg9pXsyY
   - Style Layout & Welcome Page
   - Create Bootstrap FormHelper
   - Style New Account form
-- [ ] 5. Add Devise & User Model
+- [x] 5. Add Devise & User Model
   - Spec out User model
   - Add Devise & generate User model
   - Add User fields to Account creation form
   - Debug Account creation spec with Pry
-- [ ] 6. zzz
+- [ ] 6. User Sign In
+  - Specs
+  - Devise
+  - Styling
 - [ ] 7. zzz
 - [ ] 8. zzz
 - [ ] 9. zzz
